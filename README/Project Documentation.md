@@ -21,6 +21,8 @@ Instruction to run the code
          pip install pandas 
          pip install dash 
          pip install rank_bm25 
+         pip install plotly 
+         pip install dash_bootstrap_components 
    
    ![image](https://user-images.githubusercontent.com/101125363/206076729-2bd8688f-0c65-421e-8c1f-6246675153e6.png)
 
